@@ -41,7 +41,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 #### How it looks
 
 # This is an `<h1>` header, which is the largest
-## This is an `<h2>` header
+### This is an `<h3>` header
 ###### This is an `<h6>` header, which is the smallest
 
 ### :keyboard: Activity: Edit your file with headers
@@ -119,7 +119,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 #### How it looks
 
 ```
-$ git init
+$ git init to initialize
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
